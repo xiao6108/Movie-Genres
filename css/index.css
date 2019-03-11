@@ -1,0 +1,20 @@
+.nav-link {
+  color: #115173;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background-color: #115173;
+  color: #fff;
+}
+
+.category {
+  font-size: 12px;
+  border-radius: 2px;
+  color: #fff;
+  background-color: #115173;
+  display: inline;
+  padding: 3px 5px;
+}
+
+li {
+  list-style: none;
+}
